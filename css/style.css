@@ -401,12 +401,18 @@ h3 {
     .header-2 {
         display: flex;
         justify-content: center;
-        margin-left: 1rem;
+        margin-left: 1.5rem;
         margin-top: 1rem;
     
     }
     .menu ul li a {
-        font-size: 0.8rem;
+        font-size: 14px;
+    }
+    .bloco-logos h2 {
+        margin-left: 3rem;
+    }
+    .col-4 {
+        margin-left: 6rem;
     }
 }
 @media (max-width: 368px) {
