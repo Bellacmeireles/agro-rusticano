@@ -424,6 +424,12 @@ h3 {
     
     }
     .menu ul li a {
-        font-size: 0.6rem;
+        font-size: 13px;
+    }
+    .bloco-logos h2 {
+        margin-left: 3rem;
+    }
+    .col-4 {
+        margin-left: 6rem;
     }
 }
