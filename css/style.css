@@ -198,14 +198,16 @@ button.slick-next{
 .bloco-texto1 img {
     width: 280px;
     height: 200px;
+    border: solid 0px rgb(67 90 133 / 56%);
     border-radius: 15px;
-    border: 2px solid #000000;
+    box-shadow: 0px 5px 14px 1px rgb(0 0 0 );
 }
 .bloco-texto2 img {
     width: 280px;
     height: 200px;
+    border: solid 0px rgb(67 90 133 / 56%);
     border-radius: 15px;
-    border: 2px solid #000000;
+    box-shadow: 0px 5px 14px 1px rgb(0 0 0 );
 }
 .texto-destaque h1 {
     text-transform:uppercase;
@@ -236,7 +238,9 @@ h3 {
     width: 90%;
 }
 .bloco-imagem {
-    border: 3px solid #c5c5c5;
+    border: solid 3px #071b4599;
+    border-radius: 15px;
+    box-shadow: 10px 15px 15px 2px #000000ed;
     padding-top: 1rem;
     padding-bottom: 1rem;
     padding-right: 1rem;
